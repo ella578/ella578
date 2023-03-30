@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://github.com/ella578/ella578/blob/main/assets/snake_gif.gif)
+![](https://github.com/ella578/ella578/blob/main/2023/snake_gif.gif)
 
 <!--
 **ella578/ella578** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
