@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello world ! 👋
 
 ![](https://github.com/ella578/ella578/blob/main/2023/snake_svg.svg)
 
