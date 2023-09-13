@@ -1,5 +1,9 @@
 ### Hello world ! 👋
 
+
+#  Truth can only be found in one place: the code – Robert C. Martin, Clean Code: A Handbook of Agile Software Craftsmanship
+
+
 ![](https://github.com/ella578/ella578/blob/main/2023/snake_svg.svg)
 
 - 🔭 I’m currently working on C
