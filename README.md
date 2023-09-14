@@ -5,6 +5,7 @@
 – Robert C. Martin, Clean Code: A Handbook of Agile Software Craftsmanship
 
 
+![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
 ![](https://github.com/ella578/ella578/blob/main/2023/snake_svg.svg)
 
 - 🔭 I’m currently working on C
