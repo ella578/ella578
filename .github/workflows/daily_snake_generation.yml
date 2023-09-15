@@ -28,7 +28,7 @@ jobs:
         uses: actions/checkout@v3
       # Runs a single command using the runners shell
       - name: SNAKE
-        uses: Platane/snk@master
+        uses: Platane/snk@v2
         id: snake_svg
         with:
           github_user_name: ${{ github.repository_owner }}
