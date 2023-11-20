@@ -11,7 +11,7 @@
 ![](https://github.com/ella578/ella578/blob/main/2023/snake_svg.svg)
 
 - 🔭 I’m currently working on C
-- 🌱 I’m currently learning Netpractice
+- 🌱 I’m currently working on project INCEPTION learning containers
 <!--
 **ella578/ella578** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
